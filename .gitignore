@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+obj/
+Logs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+packages/
+
+# EF Core
+**/Migrations/**/obj/
+
+# Others
+*.cache
+*.db
+*.mdf
+*.ldf
